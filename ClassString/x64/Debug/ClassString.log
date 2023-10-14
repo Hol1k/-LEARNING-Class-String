@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++ Projects\Class\ClassString(Lesson)\ClassString\main.cpp(128): warning C4715: String::operator[]: значение возвращается не при всех путях выполнения
+  ClassString.vcxproj -> D:\C++ Projects\Class\ClassString(Lesson)\x64\Debug\ClassString.exe
